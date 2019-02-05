@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">shimorouter</string>
+    <string name="router_log">路径配置不正确</string>
+</resources>
